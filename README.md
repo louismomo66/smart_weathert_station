@@ -1,8 +1,3 @@
-# smart_weathert_station
-Here’s a **README.md** file for your **Smart Weather Station 2022** project. It includes a structured overview, technical details, and the long-term vision.  
-
----
-
 # **Smart Weather Station 2022**  
 
 ## **Project Overview**  
